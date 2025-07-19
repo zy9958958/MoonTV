@@ -15,6 +15,18 @@
       "api": "https://cj.rycjapi.com/api.php/provide/vod",
       "name": "如意资源"
     },
+    "jszy": {
+      "api": "https://jszyapi.com/api.php/provide/vod",
+      "name": "极速资源"
+    },
+    "ffzy": {
+      "api": "http://ffzy5.tv/api.php/provide/vod",
+      "name": "非凡资源"
+    },
+    "mzzy": {
+      "api": "https://mozhuazy.com/api.php/provide/vod",
+      "name": "魔爪资源"
+    },
     "bfzy": {
       "api": "https://bfzyapi.com/api.php/provide/vod",
       "name": "暴风资源"
@@ -22,6 +34,18 @@
     "tyyszy": {
       "api": "https://tyyszy.com/api.php/provide/vod",
       "name": "天涯资源"
+    },
+    "wlzy": {
+      "api": "https://wolongzyw.com/api.php/provide/vod",
+      "name": "卧龙资源"
+    },
+    "zdzy": {
+      "api": "https://api.zuidapi.com/api.php/provide/vod",
+      "name": "最大资源"
+    },
+    "wjzy": {
+      "api": "https://api.wujinapi.me/api.php/provide/vod",
+      "name": "无尽资源"
     },
     "ffzy": {
       "api": "http://ffzy5.tv/api.php/provide/vod",
